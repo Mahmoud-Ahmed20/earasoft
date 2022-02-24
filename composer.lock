@@ -1,0 +1,58 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "c0ff656e506ce87659b3280bb72aeb9e",
+    "packages": [
+        {
+            "name": "islam/eraamvc",
+            "version": "v5",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/devmohamedamr/eraadb.git",
+                "reference": "248f98bacdaf06b3b41b01809078ae3bc3fbb2fd"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/devmohamedamr/eraadb/zipball/248f98bacdaf06b3b41b01809078ae3bc3fbb2fd",
+                "reference": "248f98bacdaf06b3b41b01809078ae3bc3fbb2fd",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^7.4"
+            },
+            "type": "libarary",
+            "autoload": {
+                "psr-4": {
+                    "Islam\\Eraamvc\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "mohamed amr",
+                    "email": "dev.mohamedamr@gmail.com"
+                }
+            ],
+            "support": {
+                "issues": "https://github.com/devmohamedamr/eraadb/issues",
+                "source": "https://github.com/devmohamedamr/eraadb/tree/v5"
+            },
+            "time": "2022-01-29T13:33:29+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.1.0"
+}

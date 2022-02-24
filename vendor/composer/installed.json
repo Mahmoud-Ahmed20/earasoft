@@ -1,0 +1,48 @@
+{
+    "packages": [
+        {
+            "name": "islam/eraamvc",
+            "version": "v5",
+            "version_normalized": "5.0.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/devmohamedamr/eraadb.git",
+                "reference": "248f98bacdaf06b3b41b01809078ae3bc3fbb2fd"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/devmohamedamr/eraadb/zipball/248f98bacdaf06b3b41b01809078ae3bc3fbb2fd",
+                "reference": "248f98bacdaf06b3b41b01809078ae3bc3fbb2fd",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^7.4"
+            },
+            "time": "2022-01-29T13:33:29+00:00",
+            "type": "libarary",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Islam\\Eraamvc\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "mohamed amr",
+                    "email": "dev.mohamedamr@gmail.com"
+                }
+            ],
+            "support": {
+                "issues": "https://github.com/devmohamedamr/eraadb/issues",
+                "source": "https://github.com/devmohamedamr/eraadb/tree/v5"
+            },
+            "install-path": "../islam/eraamvc"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}
